@@ -1,4 +1,6 @@
 # Monitoria - LPF
+
+[![Join the chat at https://gitter.im/lpfpoli/monitoria](https://badges.gitter.im/lpfpoli/monitoria.svg)](https://gitter.im/lpfpoli/monitoria?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Cada exercício desenvolvido será publicado aqui em diretórios distintos.
 Caso tenham dúvidas no uso do git ou o gitter, entrar em contato.
 
